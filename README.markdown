@@ -1,2 +1,1 @@
-Repository has moved to http://github.com/santry/blog_tags
-==========================================================
+# Repository has moved to [http://github.com/santry/blog_tags](http://github.com/santry/blog_tags)
